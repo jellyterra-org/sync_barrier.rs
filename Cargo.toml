@@ -1,0 +1,9 @@
+[package]
+name = "sync_barrier"
+version = "1.0.0"
+edition = "2024"
+license = "Unlicense"
+repository = "https://github.com/jellyterra/sync_barrier.rs"
+description = "Block thread until counter reached zero."
+
+[dependencies]
